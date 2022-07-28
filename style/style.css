@@ -9,3 +9,8 @@ body{
     height: 300px;
     
 }
+.fa-brands{
+    color: hsl(0, 0%, 100%);
+    font-size: 2em;
+    margin-left: 20px;
+}
